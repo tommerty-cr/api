@@ -1,0 +1,5 @@
+reviews:
+  path_instructions:
+    - path: "**/*"
+      instructions: |
+        Always mention the user @tommerty on every suggestion and leave a 👻 emoji
